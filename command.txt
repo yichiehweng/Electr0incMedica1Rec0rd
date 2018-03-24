@@ -1,0 +1,6 @@
+go get github.com/gorilla/handlers
+go get github.com/gorilla/mux
+
+go get gopkg.in/mgo.v2
+
+go run main.go
